@@ -1,0 +1,118 @@
+NAME_1,NAME_2,SIMILARITY_SCORE,CONFIDENCE
+usa instruments,sa instruments,96.55172413793103,HIGH
+inova diagnostics,genova diagnostics,91.42857142857143,MEDIUM
+life technologies,lifeloc technologies,91.89189189189189,MEDIUM
+life technologies,led technologies,90.9090909090909,MEDIUM
+acist medical systems,cas medical systems,90.0,MEDIUM
+acist medical systems,is2 medical systems,90.0,MEDIUM
+nobel biocare uas,nobel biocare usa,94.11764705882352,MEDIUM
+medist international,meditech international,90.47619047619048,MEDIUM
+medist international,medien international,90.0,MEDIUM
+apple medical,applied medical,92.85714285714286,MEDIUM
+a a medical,ai medical ag,91.66666666666666,MEDIUM
+a a medical,aga medical,90.9090909090909,MEDIUM
+a a medical,a e medical,90.9090909090909,MEDIUM
+minntech,meinntech,94.11764705882352,MEDIUM
+ela medical,del medical,90.9090909090909,MEDIUM
+arthrocare,arthocare,94.73684210526316,MEDIUM
+biosurgical,isurgical,90.0,MEDIUM
+instrumentation laboratory,instrumentation laboratory il,94.54545454545455,MEDIUM
+diagnostic chemicals,biochemical diagnostic,90.47619047619048,MEDIUM
+biocell laboratories,biocoll laboratories,95.0,HIGH
+altatec biotechnologies,altatec biotechnologies n a,92.0,MEDIUM
+teco diagnostics,neo diagnostics,90.32258064516128,MEDIUM
+henley healthcare,hne healthcare,90.32258064516128,MEDIUM
+medtronic sofamor danek usa,medtronic sofamor danck usa,96.2962962962963,HIGH
+medtronic sofamor danek usa,medtronic sofamor danek,92.0,MEDIUM
+medtronic sofamor danek usa,medtronic soafamor danek,90.19607843137256,MEDIUM
+rs medical,srs medical,95.23809523809523,HIGH
+rs medical,qrs medical,95.23809523809523,HIGH
+rs medical,rj medical,90.0,MEDIUM
+rs medical,vr medical,90.0,MEDIUM
+consolidated technologies,consolidated technology,91.66666666666666,MEDIUM
+industrial clothings,industrial clothings pvt,90.9090909090909,MEDIUM
+alcon laboratories,acon laboratories,97.14285714285714,HIGH
+alcon laboratories,avalon laboratories,91.89189189189189,MEDIUM
+w o m world of medicine,w o m world of medicine ag,93.87755102040816,MEDIUM
+depuy orthopaedics,depuy orthopedics,97.14285714285714,HIGH
+terang nusa sdn bhd,terang nusa snd bhd,94.73684210526316,MEDIUM
+w l gore associates,w l gore and associates,90.47619047619048,MEDIUM
+ultradent products,ultradent product,97.14285714285714,HIGH
+ge dec medical systems,ge medical systems,90.0,MEDIUM
+mrl diagnostics,more diagnostics,90.32258064516128,MEDIUM
+surgical navigation technologies,navigate surgical technologies,93.5483870967742,MEDIUM
+insight instruments mfg,insight instruments,90.47619047619048,MEDIUM
+biomet manufacturing,biomet manufactuting,95.0,HIGH
+biomet manufacturing,biomet manafacturing,95.0,HIGH
+criticare systems,ciriticare systems,97.14285714285714,HIGH
+vivant medical,visant medical,92.85714285714286,MEDIUM
+ge medical systems,glenn medical systems,92.3076923076923,MEDIUM
+ge medical systems,gemss medical systems,92.3076923076923,MEDIUM
+ge medical systems,del medical systems,91.89189189189189,MEDIUM
+ge medical systems,esc medical systems,91.89189189189189,MEDIUM
+philips medical systems cleveland,phillips medical systems cleveland,98.50746268656717,HIGH
+coltene whaledent,coltene whaledent ag,91.89189189189189,MEDIUM
+xentek medical,zentek medical,92.85714285714286,MEDIUM
+meretek,merete,92.3076923076923,MEDIUM
+medical advances,advancis medical,93.75,MEDIUM
+ortho technology,coho technology,90.32258064516128,MEDIUM
+medpro technologies,med pro technologies,97.43589743589743,HIGH
+medical device technologies,eci medical technologies,90.19607843137256,MEDIUM
+fresenius medical care north america,fresensius medical care north america,98.63013698630137,HIGH
+medtronic sofamor danek,medtronic soafamor danek,97.87234042553192,HIGH
+medtronic sofamor danek,medtronic sofamor danek usa,92.0,MEDIUM
+harvest technologies,rest technologies,91.89189189189189,MEDIUM
+icu medical,ics medical,90.9090909090909,MEDIUM
+medtrade products,medtrade product,96.96969696969697,HIGH
+somnus medical technologies,orbus medical technologies,90.56603773584906,MEDIUM
+somnus medical technologies,scion medical technologies,90.56603773584906,MEDIUM
+somnus medical technologies,nas medical technologies,90.19607843137256,MEDIUM
+arthrex,arthex,92.3076923076923,MEDIUM
+uromed,euromed,92.3076923076923,MEDIUM
+cas medical systems,clarus medical systems,92.6829268292683,MEDIUM
+cas medical systems,cu medical systems,91.89189189189189,MEDIUM
+cas medical systems,a2 medical systems,91.89189189189189,MEDIUM
+cas medical systems,acist medical systems,90.0,MEDIUM
+smith nephew,smith newphew,96.0,HIGH
+advanced technology research a t r s r p,advanced technology research a t r s r l,97.5,HIGH
+elan diagnostics,lia diagnostics,90.32258064516128,MEDIUM
+wr medical electronics,weaver medical electronics,91.66666666666666,MEDIUM
+kls martin,kl martin,94.73684210526316,MEDIUM
+helena laboratories,helena laboratories uk,92.6829268292683,MEDIUM
+inrad,minrad,90.9090909090909,MEDIUM
+ge medical systems information technologies,ge medical syst information technologies,96.3855421686747,HIGH
+burton medical products,boston medical products,91.30434782608697,MEDIUM
+a m systems,a med systems,91.66666666666666,MEDIUM
+baxter healthcare,baxterhealthcare,96.96969696969697,HIGH
+baxter healthcare,bayer healthcare,90.9090909090909,MEDIUM
+merit medical systems,merit medical system,97.5609756097561,HIGH
+merit medical systems,rita medical systems,92.6829268292683,MEDIUM
+merit medical systems,smart medical systems,90.47619047619048,MEDIUM
+medical data electronics,advantage medical electronics,90.56603773584906,MEDIUM
+plus orthopedics,plus orthopedics ag,91.42857142857143,MEDIUM
+jawon medical,jan medical,91.66666666666666,MEDIUM
+dmc medical,dm medical,95.23809523809523,HIGH
+dmc medical,mac medical,90.9090909090909,MEDIUM
+dmc medical,bmc medical,90.9090909090909,MEDIUM
+dmc medical,hdc medical,90.9090909090909,MEDIUM
+respironics,respirics,90.0,MEDIUM
+med pro technologies,medpro technologies,97.43589743589743,HIGH
+y beam technologies,beam technologies,94.44444444444444,MEDIUM
+arrow intl,arrow int l,95.23809523809523,HIGH
+aerotel medical systems 1998,aerotel medical systems,90.19607843137256,MEDIUM
+advanced renal technologies,advanced spinal technologies,90.9090909090909,MEDIUM
+abbott laboratories,abott laboratories,97.2972972972973,HIGH
+medi dyne,med dyne,94.11764705882352,MEDIUM
+advanced neuromodulation systems,advanced neuromodulation system inc,92.53731343283582,MEDIUM
+molnlycke health care,monlycke health care,97.5609756097561,HIGH
+molnlycke health care,molnlycke health care us,93.33333333333333,MEDIUM
+molnlycke health care,molnlycke health care usa,91.30434782608697,MEDIUM
+adac laboratories,dlc laboratories,90.9090909090909,MEDIUM
+medica,amedica,92.3076923076923,MEDIUM
+medica,medicam,92.3076923076923,MEDIUM
+medica,medaica,92.3076923076923,MEDIUM
+medica,medic,90.9090909090909,MEDIUM
+advanced medical products,advanced care medical products,90.9090909090909,MEDIUM
+keymed medical industrial equipment,keymed medical and industrial equipment,94.5945945945946,MEDIUM
+aaron medical industries,brown medical industries,91.66666666666666,MEDIUM
+utah medical products,tag medical products,92.6829268292683,MEDIUM
